@@ -4,7 +4,8 @@
 - [Authors](#authors)
 - [Description](#description)
 - [Operating System and Programming Language](#operating-system-and-programming-language)
-- [Running instructions](#running-instructions)
+- [Running Instructions](#running-instructions)
+- [Project Structure](#project-parsers)
 
 ## Authors
 - Santiago Gómez Ospina
@@ -22,7 +23,7 @@ Final project of the course Formal Languages and Compilers, the original project
   - Python version 13.13.0
 
 
-## Running instructions
+## Running Instructions
 
 **Requirement**
 
